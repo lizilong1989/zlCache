@@ -1,8 +1,8 @@
 Pod::Spec.new do |spec|
   spec.name         = 'zlCache'
-  spec.version      = '1.0.0'
+  spec.version      = '1.0.1'
   spec.license      = { :type => 'Personal', :text => 'zilong.li' }
-  spec.summary      = 'An Objective-C tool for Dispatch'
+  spec.summary      = 'A Lib For cache.'
   spec.homepage     = 'https://github.com/lizilong1989/zlCache.git'
   spec.author       = {'zilong.li' => '15131968@qq.com'}
   spec.source       =  {:git => 'https://github.com/lizilong1989/zlCache.git', :tag => spec.version.to_s }
